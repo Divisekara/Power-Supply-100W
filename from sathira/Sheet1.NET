@@ -1,0 +1,103 @@
+{COMPONENT PROTEL.PCB
+  {ENVIRONMENT PROTEL.SCH}
+  {DETAIL
+    {SUBCOMP
+      {I RB7.6-15.PRT C?
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I RB7.6-15.PRT C?
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I DO-41.PRT D?
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I HDR1X2.PRT P?
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I HDR1X2.PRT P?
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I *TOP3AV_TIP3055(Primary).PRT Q?
+        {CN
+        B ?
+        C ?
+        E ?
+        }
+      }
+      {I *TOP3AV_TIP3055(Primary).PRT Q?
+        {CN
+        B ?
+        C ?
+        E ?
+        }
+      }
+      {I *TOP3AV_TIP3055(Primary).PRT Q?
+        {CN
+        B ?
+        C ?
+        E ?
+        }
+      }
+      {I *TOP3AV_TIP3055(Primary).PRT Q?
+        {CN
+        B ?
+        C ?
+        E ?
+        }
+      }
+      {I *TOP3AV_TIP3055(Primary).PRT Q?
+        {CN
+        B ?
+        C ?
+        E ?
+        }
+      }
+      {I VR5.PRT R?
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        }
+      }
+      {I AXIAL-0.3.PRT R?
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I AXIAL-0.3.PRT R?
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I AXIAL-0.3.PRT R?
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I AXIAL-0.3.PRT R?
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+    }
+  }
+}
